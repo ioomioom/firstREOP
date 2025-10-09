@@ -1,1 +1,4 @@
 dit is een niewe file bob 
+
+dit is een test 
+de lokaale versie 
